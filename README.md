@@ -10,5 +10,5 @@ This website is where I share my electronic projects and ideas.
 I'm an engineer who loves to design circuits and share knowledge.
 
 ### Find Me Online
-- [YouTube Channel](https://www.youtube.com/channel/engineeringexperience)
-- [Contact Me](mailto:your-email@example.com)
+- [YouTube Channel](https://www.youtube.com/@TheEngineeringExperienceYT)
+- [Contact Me](mailto:rahul.guiris@engineeringexperience.co.uk)
